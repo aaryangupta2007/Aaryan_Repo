@@ -1,7 +1,6 @@
 # Aaryan_Repo
 My first Git repository
 <br>
-Hello there!
-<br>
+Hello ! statue!!!
 
-Author - Aaryan Gupta
+Author - Aaryan Gupta (student) 
